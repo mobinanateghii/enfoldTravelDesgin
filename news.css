@@ -7,6 +7,9 @@
     src: url(font/Quicksand-VariableFont_wght.ttf);
   }
 
+  body{
+    background-color: #fcfcfc;
+}
   .header{
     background-color: #109bc5;
     height: 3em;
@@ -26,11 +29,13 @@
 .bg-light{
     background-color: white !important;
 }.logo{
-    margin-right: 40%;
+    margin-right: 130%;
     margin-left: 10%;
 }nav{
     height: 60px;
 }
+
+
 .news-img{
     height: 15em;
     background-image: url(img/002.jpg);

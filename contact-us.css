@@ -1,0 +1,117 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(font/m_ZRbiY-aPb13R3DWPBGX4nF5uFdDttMLvmWuJdhhgs.ttf);
+  }
+@font-face {
+    font-family: mySecondFont;
+    src: url(font/Quicksand-VariableFont_wght.ttf);
+  }
+
+  body{
+    background-color: #fcfcfc;
+}
+  .header{
+    background-color: #109bc5;
+    height: 3em;
+    color: whitesmoke;
+    font-size: 8pt;
+    padding-right: 10em;
+    padding-left: 10em;
+    line-height: 3em;
+    font-weight: bold;
+}
+  .navbar{
+    margin-bottom: 0px !important;
+    color: #e1e1e1;
+    position: fixed;
+
+  }
+.bg-light{
+    background-color: white !important;
+}.logo{
+    margin-right: 130%;
+    margin-left: 10%;
+}nav{
+    height: 60px;
+} 
+
+
+
+
+.formTitle {
+    margin-top: 5em !important;
+}
+.form-contact , form{
+  margin: 5em 2em 0em 3em;
+}
+
+.col-md-5 {
+    font-family:  mySecondFont;
+    color: #666666;
+}
+.formTitle > h1{
+    text-align: center;
+    margin-bottom: 1em;
+}
+.map{
+    background-image: url(img/map.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    height: 60em;
+    margin-bottom: 1em;
+}
+.form-control{
+  margin-top: 1em;
+  background-color: #f8f8f8 !important;
+}
+.btn-primary{
+  background-color: #109bc5 !important;
+  width: 10em;
+}
+
+
+.box{
+  height: 16em;
+  text-align: justify;
+  color: whitesmoke;
+  padding-left: 4em;
+  padding-top: 5em;
+}.box > p{
+  width: 75%;
+  font-family: mySecondFont;
+  padding-left: 5em;
+}.box > h4{
+  font-family: mySecondFont;
+  padding-left: 3em;
+  font-weight: bold;
+}
+.box-1 {
+  background-color: #0085aE;
+}.box-2{
+  background-color: #0093ca;
+}.box-3{
+  background-color: #009fd0;
+}.box-4{
+  background-color: #01a5d8;
+}.box-5{
+  background-color: #0ab1e4;
+}.box-6{
+  background-color: #12b9ec;}
+
+
+
+
+
+
+
+
+.footer{
+  background-color: #11abd6;
+  height: 3em;
+  color: whitesmoke;
+  font-size: 10pt;
+  padding-top: 1em;
+  padding-right: 8em;
+  padding-left: 8em;
+}

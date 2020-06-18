@@ -1,0 +1,130 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(font/m_ZRbiY-aPb13R3DWPBGX4nF5uFdDttMLvmWuJdhhgs.ttf);
+}
+@font-face {
+  font-family: mySecondFont;
+  src: url(font/Quicksand-VariableFont_wght.ttf);
+}
+body{
+background-color: #fcfcfc;
+}
+.header{
+background-color: #109bc5;
+height: 3em;
+color: whitesmoke;
+font-size: 8pt;
+padding-right: 10em;
+padding-left: 10em;
+line-height: 3em;
+font-weight: bold;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+width: 100%;
+}
+.navbar{
+margin-bottom: 0px !important;
+color: #e1e1e1;
+}
+.logo{
+      margin-left: 10%;
+      margin-right: 40%;
+}
+.bg-light{
+background-color: white !important;
+} 
+.navbar{
+height: 60px;
+}
+
+
+
+
+.news-img{
+  height: 15em;
+  background-image: url(img/002.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.news-img img {
+  width:100%;
+  vertical-align:top;
+}
+.news-img:after {
+  content:'About Us';
+  font-family: myFirstFont;
+  color:#fff;
+  position:absolute;
+  width:100%; height:100%;
+  top:0; left:0;
+  background:rgba(0,0,0,0.6);
+  opacity:1;
+  text-align: center;
+  font-size: 70px;
+   line-height: 3em;
+}
+
+
+.aenea , .lorem{
+  font-size: 15px;
+  text-align: justify;
+  font-family: mySecondFont;
+  color: #666666;
+}.aenea {
+  margin:5em 8em 2em 12em;
+}.lorem{
+  margin-top: 5em;
+}
+.aenea > h2 , .lorem > h2{
+    color: #222222;
+    padding-bottom: 1em;
+}
+
+
+.blue-offer{
+  height: 50em;
+  background-color: #109bc5;
+  font-family: mySecondFont;
+  color: white;
+  text-align: center;
+  padding-top: 5em;
+  width: 100%;
+}
+.col-left{
+  float: left;
+  text-align: justify;
+  width: 25em;
+  margin-left: 10em;
+  padding-bottom: 4em;
+
+}
+.col-right{
+  float: left;
+  text-align: justify;
+  width: 25em;
+  margin-left: 15em;
+  padding-bottom: 4em;
+
+}
+
+
+
+.counter{
+background-image: url(img/footer-about.jpg);
+height: 10em;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+.footer{
+  background-color: #11abd6;
+  height: 3em;
+  color: whitesmoke;
+  font-size: 10pt;
+  padding-top: 1em;
+  padding-right: 8em;
+  padding-left: 8em;
+}
