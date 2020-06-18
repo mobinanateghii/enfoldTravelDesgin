@@ -1,0 +1,112 @@
+body{
+    background-color: #fcfcfc;
+}
+
+
+.box{
+        height: 15em;
+        text-align: justify;
+        color: whitesmoke;
+        padding-left: 4em;
+        padding-top: 5em;
+}.box p{
+        width: 75%;
+}
+.box-1 {
+        background-color: #0085aE;
+}.box-2{
+        background-color: #0093ca;
+}.box-3{
+        background-color: #009fd0;
+}
+
+
+
+.traveling {
+        text-align: center;
+        background-color: white;
+        height: auto;
+        padding-top: 5em;
+        padding-bottom: 5em;
+
+
+}.traveling p{
+        color: #666666;
+        margin: auto;
+        width: 80%;
+
+
+}.traveling > .btn{
+        border-radius: 2em;
+        margin: 1em;
+        padding: 0.5em;
+        background-color: #109bc5;
+}
+
+
+
+.latest{
+        text-align: center;
+        margin  : 3em;
+
+
+}.img-1{
+        background-image: url("img/1.PNG");
+}.img-2{
+        background-image: url("img/2.PNG");
+}.img-3{
+        background-image: url("img/3.PNG");
+}.img-4{
+       background-image: url("img/4.PNG");
+}.img-5{
+        background-image: url("img/5.PNG");
+}.img-6{
+        background-image: url("img/6.PNG");}
+        
+.Highlights div{
+    margin: .5em;
+    height: 20em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.3;
+   }
+
+   .kind{
+        text-align: center;
+        margin-top  : 3em;
+        margin-bottom: 12em;
+
+   }
+.Subscribe{
+        color: whitesmoke;
+        background-color: #109bc4;
+        text-align: center;
+        height: 18em;
+        padding-top: 5em;
+}
+.subscribe-btns{
+        margin-top: 2em;
+}
+.subscribe-btns > button{
+        color: #109bc5;
+        background-color: white;
+        width: 14em;
+        border-radius: 1px;
+        border-color: #bde5f0;
+}.subscribe-btns > input{
+        background-color: #0f81a1; 
+        border-radius: 1px;
+        width: 14em;
+        border-color: #bde5f0;
+}.subscribe-btns > input::placeholder{
+        color: #bde5f0 !important;
+}
+.footer{
+        background-color: #11abd6;
+        height: 3em;
+        color: whitesmoke;
+        font-size: 10pt;
+        padding-top: 1em;
+        padding-right: 8em;
+        padding-left: 8em;
+    }

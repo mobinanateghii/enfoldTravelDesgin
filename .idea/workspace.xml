@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd608b7c-cdb3-4a0a-82b4-cc980e811739" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cIWMeaEgd4rdDoW6s2dCh9uOe4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JQuery-CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../espc test" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd608b7c-cdb3-4a0a-82b4-cc980e811739" name="Default Changelist" comment="" />
+      <created>1590216540889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590216540889</updated>
+      <workItem from="1590216542428" duration="8164000" />
+      <workItem from="1590246135994" duration="1335000" />
+      <workItem from="1590812676536" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="72" key="#Language_Injections" timestamp="1590221415497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="72" key="#Language_Injections/0.0.1536.824@0.0.1536.824" timestamp="1590221415497" />
+    <state x="524" y="200" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog" timestamp="1590221406516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="200" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog/0.0.1536.824@0.0.1536.824" timestamp="1590221406516" />
+    <state x="550" y="168" key="FileChooserDialogImpl" timestamp="1590812685888">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590812685888" />
+    <state x="279" y="56" key="SettingsEditor" timestamp="1590243155744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590243155744" />
+    <state x="467" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1590812677574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590812677574" />
+  </component>
+</project>
